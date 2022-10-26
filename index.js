@@ -6,7 +6,7 @@ const cors = require('cors')
 app.use(cors())
 
 app.get('/',(req, res)=>{
-    res.send('Hello world')
+    res.send('I am from ecucamb server')
 })
 
 app.listen(port, ()=>{
