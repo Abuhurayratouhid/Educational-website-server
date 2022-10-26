@@ -11,9 +11,7 @@ app.get('/',(req, res)=>{
     res.send('I am from ecucamb server')
 })
 
-app.get('/courses',(req,res)=>{
-    res.send(courses)
-})
+
 
 app.listen(port, ()=>{
     console.log(`educamb server is running on ${port} `)
