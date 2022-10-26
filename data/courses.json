@@ -1,0 +1,68 @@
+[
+    {
+      "id": "6358914b2e5496763c5e8975",
+      "price": "$2,095",
+      "rating": 4,
+      "toStart": 29,
+      "duration": 4,
+      "picture": "https://banner2.cleanpng.com/20180527/oio/kisspng-javascript-programming-language-ajax-5b0b285b692210.3071468515274578834306.jpg",
+      "age": 18,
+      "name": "Javascript ",
+      "details": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform.JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. "
+    },
+    {
+      "id": "6358914b2ddf8f1af3d11753",
+      "price": "$2,546",
+      "rating": 5,
+      "toStart": 26,
+      "duration": 3,
+      "picture": "https://i.pinimg.com/originals/a2/6c/4b/a26c4b485716a585073da2af4328a8cd.jpg",
+      "age": 25,
+      "name": " Python",
+      "details": "Python can be used on a server to create web applications.Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. Python is a popular programming language. "
+    },
+    {
+      "id": "6358914b40775b9bb4ba0c4f",
+      "price": "$3,512",
+      "rating": 4,
+      "toStart": 28,
+      "duration": 4,
+      "picture": "https://www.clipartmax.com/png/middle/109-1092067_ruby-logo-png-ruby-icon.png",
+      "age": 22,
+      "name": " Ruby ",
+      "details": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types. "
+    },
+    {
+      "id": "6358914bacf7a899e13c0ae6",
+      "price": "$1,430",
+      "rating": 4,
+      "toStart": 29,
+      "duration": 5,
+      "picture": "https://w7.pngwing.com/pngs/101/99/png-transparent-php-computer-icons-mysql-media-logo-miscellaneous-text-logo.png",
+      "age": 23,
+      "name": "PHP ",
+      "details": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP. "
+    },
+    {
+      "id": "6358914b767038106be329f6",
+      "price": "$2,468",
+      "rating": 5,
+      "toStart": 28,
+      "duration": 6,
+      "picture": "https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
+      "age": 20,
+      "name": "C and C++ ",
+      "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms.C++ was developed by Bjarne Stroustrup .C++ gives programmers a high level of control over system resources and memory.The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20. "
+    },
+    {
+      "id": "6358914bac80dae0ff4b3de5",
+      "price": "$2,675",
+      "rating": 4,
+      "toStart": 25,
+      "duration": 6,
+      "picture": "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
+      "age": 19,
+      "name": "Java ",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java is a popular programming language.Java is used to develop mobile apps, web apps, desktop apps, games and much more."
+    }
+  ]
